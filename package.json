@@ -27,7 +27,7 @@
     "blanket": "^1.1.6",
     "cli-table": "^0.3.0",
     "mocha-spec-cov": "0.0.3",
-    "webpack": "^1.4.0"
+    "webpack": "^5.94.0"
   },
   "config": {
     "blanket": {
