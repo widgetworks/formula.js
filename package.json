@@ -12,7 +12,7 @@
     "implementation-stats": "./bin/implementation-stats"
   },
   "dependencies": {
-    "jStat": "1.0.6",
+    "jStat": "1.8.6",
     "numeral": "1.5.3",
     "numeric": "1.2.6",
     "bessel": "0.2.0"
