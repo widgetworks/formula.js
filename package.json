@@ -15,7 +15,7 @@
     "jStat": "1.0.6",
     "numeral": "1.5.3",
     "numeric": "1.2.6",
-    "bessel": "0.2.0"
+    "bessel": "0.3.0"
   },
   "devDependencies": {
     "istanbul": "*",
